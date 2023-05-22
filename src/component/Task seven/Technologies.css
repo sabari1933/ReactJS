@@ -1,0 +1,19 @@
+.tech1{
+    border-top: 4px solid rgb(252,110,131);
+    border-radius: 20px;
+}
+.tech2{
+    border-top: 4px solid rgb(68, 66, 211);
+    border-radius: 20px;
+}
+.tech3{
+    border-top: 4px solid rgb(15, 114, 31);
+    border-radius: 20px;
+}
+.tech4{
+    border-top: 4px solid rgb(244, 244, 57);
+    border-radius: 20px;
+}
+.tech{
+    background-color: rgb(143, 202, 202);
+}

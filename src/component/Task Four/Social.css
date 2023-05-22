@@ -1,0 +1,36 @@
+.social{
+    background-image: url("./back.jpg");
+    background-repeat: no-repeat;
+ background-size: cover;
+    height: 100vh;
+}
+.head{
+    text-align: center;
+    color: white;
+    padding-top: 250px;
+    font-size: 50px;
+    /* font-family: italic; */
+}
+.btn{
+    position:absolute;
+    right: 430px;
+    margin: 20px;
+}
+button{
+    margin: 20px;
+    padding: 10px;
+    width: 100px;
+}
+.bt1{
+    background-color: yellow;
+    color: white;
+    border-radius: 10px;
+}
+.bt2{
+border-radius: 10px;
+}
+.bt3{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}

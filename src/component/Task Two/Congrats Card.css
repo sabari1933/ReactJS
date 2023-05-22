@@ -1,0 +1,15 @@
+.card1{
+    background-image: url("./card-bg.png");
+    height: 100vh;
+}
+.tech{
+   
+    background-color: aqua;
+    width: 400px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 450px;
+}
+.head{
+    text-align: center;
+}

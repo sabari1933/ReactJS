@@ -1,0 +1,18 @@
+
+.logindiv1{
+    background-image: linear-gradient(to right,blue,green);
+    height: 100vh;
+}
+.textBox1{
+    border: none;
+    outline: none;
+}
+.inputdivs{
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 20px;
+}
+.but{
+  position:relative;
+  right:20px;
+}
